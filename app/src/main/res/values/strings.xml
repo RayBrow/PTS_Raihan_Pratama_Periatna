@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyProject</string>
+    <string name="PesatTech">Pesat <font color="#ff8e4d">Tech</font></string>
+</resources>
